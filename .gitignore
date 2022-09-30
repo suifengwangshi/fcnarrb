@@ -1,12 +1,7 @@
 models/*
-GM12878/*
-GM12878_1/*
-convscore/*
-bigwig/*
+conservation/*
 hg19/*
 .idea/*
 __pycache__/*
 model/*
 motifs/*
-motifs_A549/*
-motifs_GM12878/*
